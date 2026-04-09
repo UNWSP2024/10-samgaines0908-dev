@@ -4,7 +4,7 @@
 
 class Student:
     def check_pass_fail(self):
-        if self.marks >= 78:
+        if self.marks >= 78:  
             return True
         else:
             return False
